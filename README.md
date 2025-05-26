@@ -2,7 +2,7 @@
 
 Official code for the analyses performed in the paper "Systematic outcome scoring for enhancing in vivo neurotherapeutic testing applied to perinatal brain injury". This code is under a license approved by the open source initiative.
 
-[![Python Version](https://img.shields.io/badge/python-3.7-pink)](https://img.shields.io/badge/python-3.8%7C3.9-pink) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python Version](https://img.shields.io/badge/python-3.6-pink)](https://img.shields.io/badge/python-3.8%7C3.9-pink) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## 1. System requirements
 
