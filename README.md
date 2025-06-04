@@ -34,7 +34,8 @@ python3 -m pip install -r requirements.txt
 
 ### 4.a. Download the data
 
-Download the data as described in the paper. The raw and processed data are available on GEO with accession number [GSE298271](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE298271).
+Download the data as described in the paper. The raw and processed data will be available on GEO at manuscript acceptance.
+<!-- are available on GEO with accession number [GSE298271](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE298271).-->
 
 Filename             |    Administration protocol (time and mode)
 ---------------------|---------------------------------------------
