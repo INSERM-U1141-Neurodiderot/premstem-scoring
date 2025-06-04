@@ -7,7 +7,7 @@ Official code for the analyses performed in the paper "Systematic outcome scorin
 ## 1. System requirements
 
 **OS:** Linux Debian
-**Dependencies**: file *requirements.txt*
+**Dependencies**: file [requirements.txt](https://github.com/INSERM-U1141-Neurodiderot/premstem-scoring/blob/main/requirements.txt)
 
 ## 2. Citation
 
